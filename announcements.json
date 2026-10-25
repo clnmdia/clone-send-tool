@@ -1,0 +1,29 @@
+{
+  "intervalSeconds": 3,
+  "announcements": [
+    {
+      "id": "1",
+      "text": "Geri Bildirimleriniz Bizler İçin Çok Önemli",
+      "badge": "BİLGİ",
+      "tone": "info"
+    },
+    {
+      "id": "2",
+      "text": "Otomatik Güncelleme & Proxy Altyapısı Aktif",
+      "badge": "SİSTEM",
+      "tone": "success"
+    },
+    {
+      "id": "3",
+      "text": "Resmi Destek: Telegram @cloneflys & clonesendmail.online",
+      "badge": "DESTEK",
+      "tone": "purple"
+    },
+    {
+      "id": "4",
+      "text": "v1.3.5 Çoklu Kanal ve Cihaz Güvenliği Devrede",
+      "badge": "GÜVENLİK",
+      "tone": "warning"
+    }
+  ]
+}
